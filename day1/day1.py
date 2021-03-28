@@ -5,4 +5,3 @@ def Generate():
     petName = input('What\'s your pet\'s name?\n');
     print(f'\nYour band name could be: {cityName.capitalize()} {petName.capitalize()}')
 
-Generate()
